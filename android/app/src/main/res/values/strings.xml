@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Quiz Bot</string>
+    <string name="title_activity_main">Quiz Bot</string>
+    <string name="package_name">com.quizbot.app</string>
+    <string name="custom_url_scheme">com.quizbot.app</string>
+</resources>

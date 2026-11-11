@@ -1,0 +1,7 @@
+{
+  "appId": "com.quizbot.app",
+  "appName": "Quiz Bot",
+  "webDir": "www",
+  "backgroundColor": "#0d0820",
+  "android": { "allowMixedContent": false }
+}
